@@ -1,0 +1,9 @@
+shops/User.class
+shops/Store.class
+shops/StoreUserDetailsService.class
+shops/StoreController.class
+shops/SecurityConfig.class
+shops/UserRepository.class
+shops/StoreRepository.class
+shops/Application.class
+shops/Role.class

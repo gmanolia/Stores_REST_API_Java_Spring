@@ -1,0 +1,9 @@
+/home/nitlab/work/gs-rest-service/initial/src/main/java/shops/Application.java
+/home/nitlab/work/gs-rest-service/initial/src/main/java/shops/SecurityConfig.java
+/home/nitlab/work/gs-rest-service/initial/src/main/java/shops/Role.java
+/home/nitlab/work/gs-rest-service/initial/src/main/java/shops/Store.java
+/home/nitlab/work/gs-rest-service/initial/src/main/java/shops/StoreController.java
+/home/nitlab/work/gs-rest-service/initial/src/main/java/shops/StoreRepository.java
+/home/nitlab/work/gs-rest-service/initial/src/main/java/shops/UserRepository.java
+/home/nitlab/work/gs-rest-service/initial/src/main/java/shops/User.java
+/home/nitlab/work/gs-rest-service/initial/src/main/java/shops/StoreUserDetailsService.java

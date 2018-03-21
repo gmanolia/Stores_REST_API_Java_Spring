@@ -1,0 +1,13 @@
+package shops;
+
+import 
+
+
+@Controller
+@RequestMapping("/adminservice")
+@Secured("ROLE_ADMIN")
+public class AdminServiceController {
+    
+
+}
+
